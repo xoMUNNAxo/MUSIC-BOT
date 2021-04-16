@@ -28,15 +28,15 @@ Use the buttons below to know more about me..🔥
             [
                 [
                     InlineKeyboardButton(
-                        "Music World 🌍", url="https://t.me/joinchat/bdctBrN35fNiMGNl",
+                        "Music World 🌍", url="https://t.me/joinchat/pfHtf8_J3cRjNjFl",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Official Clan 🔥", url="https://t.me/LaylaSupport"
+                        "Official Clan 🔥", url="https://t.me/weopsecretgihhters"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/weopsecretfighters"
+                        "My Creator 😎", url="https://t.me/idanishbaba"
                     ),
                     InlineKeyboardButton(
                         "⚔️ Commands", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
