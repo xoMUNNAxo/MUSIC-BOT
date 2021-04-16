@@ -13,9 +13,9 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Hey {message.from_user.first_name}! Hii
 I am powerful VC music Bot..🔥
-I can play songs in your group's VC..😉
+I can play songs in your group's VC 😉
 
-To listen songs also add @danishbaba music to your group..
+To listen songs also add @danishbabamusic to your group..
 
 And don't forgot to promote me with all rights..😉
 Otherwise I can't play songs..🙄
@@ -33,7 +33,7 @@ Use the buttons below to know more about me..🔥
                 ],
                 [
                     InlineKeyboardButton(
-                        "Official Clan 🔥", url="https://t.me/weopsecretgihhters"
+                        "Official Clan 🔥", url="https://t.me/weopsecretfighters"
                     ),
                     InlineKeyboardButton(
                         "My Creator 😎", url="https://t.me/idanishbaba"
