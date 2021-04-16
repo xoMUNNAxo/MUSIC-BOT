@@ -28,7 +28,7 @@ Use the buttons below to know more about me..🔥
             [
                 [
                     InlineKeyboardButton(
-                        "Music World 🌍", url="https://t.me/joinchat/pfHtf8_J3cRjNjFl",
+                        "Music World 🌍", url="https://t.me/wearefriendscircle",
                     )
                 ],
                 [
