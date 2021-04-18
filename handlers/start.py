@@ -39,12 +39,12 @@ Use the buttons below to know more about me..🔥
                         "αвσυт мυηηα🔥", url="https://t.me/aboutmunna"
                     ),
                     InlineKeyboardButton(
-                        "⚔️ Commands", url="https://telegra.ph/𝐌𝐔𝐍𝐍𝐀-𝐓𝐑𝐈𝐏𝐀𝐓𝐇𝐈-04-18"
+                        "⚔️ cσммαη∂s", url="https://telegra.ph/𝐌𝐔𝐍𝐍𝐀-𝐓𝐑𝐈𝐏𝐀𝐓𝐇𝐈-04-18"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/munna_vc_robot?startgroup=true"
+                        "➕ α∂∂ тσ үσυя gяσυρ ➕", url="https://t.me/munna_vc_robot?startgroup=true"
                     )
                 ]
             ]
