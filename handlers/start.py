@@ -9,13 +9,13 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~ filters.edited
 )
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgUAAxkBAAIp9mBtwBBZGywWEmV-WC8gcMArjusuAAKMAgACTp1xV6m-mtC1YTfoHgQ")
+    await message.reply_sticker("CAADBQADwQIAAgsnYFQgp59vWmBXLAIQ")
     await message.reply_text(
         f"""<b>Hey {message.from_user.first_name}! Hii
 I am powerful VC music Bot..🔥
 I can play songs in your group's VC 😉
 
-To listen songs also add @danishbabamusic to your group..
+To listen songs also add @munna_vc_robot to your group..
 
 And don't forgot to promote me with all rights..😉
 Otherwise I can't play songs..🙄
@@ -28,23 +28,23 @@ Use the buttons below to know more about me..🔥
             [
                 [
                     InlineKeyboardButton(
-                        "Music World 🌍", url="https://t.me/wearefriendscircle",
+                        "мү σωηεя🔥", url="https://t.me/sedxd",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Official Clan 🔥", url="https://t.me/weopsecretfighters"
+                        "σғғιcιαℓ gяσυρ🔥", url="https://t.me/X_F0RCE_TEAM"
                     ),
                     InlineKeyboardButton(
-                        "My Creator 😎", url="https://t.me/idanishbaba"
+                        "αвσυт мυηηα🔥", url="https://t.me/aboutmunna"
                     ),
                     InlineKeyboardButton(
-                        "⚔️ Commands", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
+                        "⚔️ Commands", url="https://telegra.ph/𝐌𝐔𝐍𝐍𝐀-𝐓𝐑𝐈𝐏𝐀𝐓𝐇𝐈-04-18"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/danishbabamusic_bot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/munna_vc_robot?startgroup=true"
                     )
                 ]
             ]
